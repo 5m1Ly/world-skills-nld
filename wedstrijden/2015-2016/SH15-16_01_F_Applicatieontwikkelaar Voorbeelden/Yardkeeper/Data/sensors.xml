@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yardkeeper>
+	<yard>
+		<name>My Backyard</name>
+		<length>60</length>
+		<width>40</width>
+	</yard>
+	<sync>1454550932</sync>
+	<telemetry>
+		<sensor>
+			<name>Temperature</name>
+			<value>25.8</value>
+			<suffix>C</suffix>
+		</sensor>
+		<sensor>
+			<name>Dew point</name>
+			<value>25.2</value>
+			<suffix>C</suffix>
+		</sensor>
+		<sensor>
+			<name>Humidity</name>
+			<value>54</value>
+			<suffix>%</suffix>
+		</sensor>
+		<sensor>
+			<name>Atmospheric pressure</name>
+			<value>1234</value>
+			<suffix>mbar</suffix>
+			<range>
+				<min>0</min>
+				<max>1400</max>
+				<step>1</step>
+			</range>
+		</sensor>
+		<sensor>
+			<name>Forecast</name>
+			<value>conditions_cloud_rain</value>
+		</sensor>
+	</telemetry>
+	<units>
+		<unit>
+			<name>Unit 1</name>
+			<position>
+				<x>5.2</x>
+				<y>5.4</y>
+			</position>
+			<range>
+				<min>0</min>
+				<max>360</max>
+				<step>125</step>
+			</range>
+			<reach>10</reach>
+			<angle>270</angle>
+		</unit>
+		<unit>
+			<name>Unit 2</name>
+			<position>
+				<x>15.4</x>
+				<y>5.3</y>
+			</position>
+			<range>
+				<min>0</min>
+				<max>360</max>
+				<step>125</step>
+			</range>
+			<reach>10</reach>
+			<angle>360</angle>
+		</unit>
+		<unit>
+			<name>Unit 3</name>
+			<position>
+				<x>25.1</x>
+				<y>5.6</y>
+			</position>
+			<range>
+				<min>0</min>
+				<max>360</max>
+				<step>125</step>
+			</range>
+			<reach>10</reach>
+			<angle>90</angle>
+		</unit>
+		<unit>
+			<name>Unit 4</name>
+			<position>
+				<x>15.4</x>
+				<y>25.3</y>
+			</position>
+			<range>
+				<min>0</min>
+				<max>360</max>
+				<step>100</step>
+			</range>
+			<reach>10</reach>
+			<angle>360</angle>
+		</unit>
+		<unit>
+			<name>Unit 5</name>
+			<position>
+				<x>15.4</x>
+				<y>42.3</y>
+			</position>
+			<range>
+				<min>0</min>
+				<max>360</max>
+				<step>100</step>
+			</range>
+			<reach>10</reach>
+			<angle>360</angle>
+		</unit>
+	</units>
+</yardkeeper>

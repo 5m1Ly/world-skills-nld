@@ -1,0 +1,11 @@
+E:\Yardkeeper\bin\Release\Yardkeeper.exe.config
+E:\Yardkeeper\bin\Release\Data\sensors.xml
+E:\Yardkeeper\bin\Release\Data\schedule.xml
+E:\Yardkeeper\bin\Release\Yardkeeper.exe
+E:\Yardkeeper\bin\Release\Yardkeeper.pdb
+E:\Yardkeeper\obj\Release\Yardkeeper.csprojResolveAssemblyReference.cache
+E:\Yardkeeper\obj\Release\Yardkeeper.Main.resources
+E:\Yardkeeper\obj\Release\Yardkeeper.Properties.Resources.resources
+E:\Yardkeeper\obj\Release\Yardkeeper.csproj.GenerateResource.Cache
+E:\Yardkeeper\obj\Release\Yardkeeper.exe
+E:\Yardkeeper\obj\Release\Yardkeeper.pdb

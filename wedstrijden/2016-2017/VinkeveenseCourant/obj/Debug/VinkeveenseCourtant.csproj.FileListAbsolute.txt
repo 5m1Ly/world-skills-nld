@@ -1,0 +1,9 @@
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\bin\Debug\VinkeveenseCourant.exe.config
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\obj\Debug\VinkeveenseCourant.csprojResolveAssemblyReference.cache
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\obj\Debug\VinkeveenseCourant.Properties.Resources.resources
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\obj\Debug\VinkeveenseCourant.csproj.GenerateResource.Cache
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\bin\Debug\VinkeveenseCourant.exe
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\bin\Debug\VinkeveenseCourant.pdb
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\obj\Debug\VinkeveenseCourant.exe
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\obj\Debug\VinkeveenseCourant.pdb
+d:\users\geert jaminon\my documents\visual studio 2015\Projects\VinkeveenseCourant\VinkeveenseCourant\obj\Debug\VinkeveenseCourant.Mainform.resources

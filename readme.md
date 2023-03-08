@@ -7,8 +7,9 @@ Deze repository bevat informatie, wedstrijd opdrachten, oefen materiaal en oplos
 - Wedstrijden Onderdelen
 
 ### Wedstrijden Onderdelen
-Hier volgt een opsomming van alle algemene concepten en  die zijn behandeld in voorgaande wedstrijden.
+Hier volgt een opsomming van alle (algemene) concepten, vereiste programmeer talen en bestands formaten die zijn behandeld in voorgaande wedstrijden.
 
+#### Concepten
 - full-stack
     - class diagraming
     - functional design
@@ -28,3 +29,5 @@ Hier volgt een opsomming van alle algemene concepten en  die zijn behandeld in v
 - front-end
     - ui design
     - ui design implementation
+
+#### Languages

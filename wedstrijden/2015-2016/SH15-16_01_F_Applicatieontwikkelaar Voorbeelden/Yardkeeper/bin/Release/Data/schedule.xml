@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yardkeeper>
+  <scheduler>
+    <rules>
+      <rule>
+        <type>1</type>
+        <category>1</category>
+        <specifics>1</specifics>
+      </rule>
+      <rule>
+        <type>
+        </type>
+        <category>
+        </category>
+        <specifics>
+        </specifics>
+      </rule>
+      <rule>
+        <type>
+        </type>
+        <category>
+        </category>
+        <specifics>
+        </specifics>
+      </rule>
+      <rule>
+        <type>2</type>
+        <category>4</category>
+        <specifics>
+        </specifics>
+      </rule>
+    </rules>
+  </scheduler>
+</yardkeeper>

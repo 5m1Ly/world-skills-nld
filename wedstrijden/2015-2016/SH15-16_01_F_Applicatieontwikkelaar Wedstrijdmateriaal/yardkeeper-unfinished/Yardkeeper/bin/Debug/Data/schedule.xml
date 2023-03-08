@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yardkeeper>
+	<scheduler>
+		<rules>
+			<rule>
+				<type>1</type>
+				<category>2</category>
+				<specifics>12:30</specifics>
+			</rule>
+			<rule>
+				<type>1</type>
+				<category>3</category>
+				<specifics>85</specifics>
+			</rule>			
+			<rule>
+				<type>2</type>
+				<category>5</category>
+				<specifics>None</specifics>
+			</rule>
+		</rules>
+	</scheduler>
+</yardkeeper>

@@ -5,9 +5,12 @@ Deze repository bevat informatie, wedstrijd opdrachten, oefen materiaal en oplos
 
 ## Inhouds Opgave
 - Wedstrijden Onderdelen
+    - Concepten
+    - Vereiste Programmeer & Opmaak Talen
+    - Data Bestand Formaten
 
 ### Wedstrijden Onderdelen
-Hier volgt een opsomming van alle (algemene) concepten, vereiste programmeer talen en bestands formaten die zijn behandeld in voorgaande wedstrijden.
+Hier volgt een opsomming van alle (algemene) concepten, vereiste programmeer & opmaak talen en bestands formaten die zijn behandeld in voorgaande wedstrijden.
 
 #### Concepten
 - full-stack
@@ -30,4 +33,14 @@ Hier volgt een opsomming van alle (algemene) concepten, vereiste programmeer tal
     - ui design
     - ui design implementation
 
-#### Languages
+#### Vereiste Programmeer & Opmaak Talen
+- SQL
+- PHP
+- C#
+- JavaScript
+- CSS
+- HTML
+
+#### Data Bestand Formaten
+- xml
+- xlsx (excel)
